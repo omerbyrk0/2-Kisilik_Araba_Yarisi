@@ -1,0 +1,22 @@
+C:\Users\Ömer\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\bin\Debug\ARABA YARIŞI.exe.config
+C:\Users\Ömer\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\bin\Debug\ARABA YARIŞI.exe
+C:\Users\Ömer\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\bin\Debug\ARABA YARIŞI.pdb
+C:\Users\Ömer\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.csproj.AssemblyReference.cache
+C:\Users\Ömer\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ömer\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\obj\Debug\ARABA_YARIŞI.Form1.resources
+C:\Users\Ömer\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\obj\Debug\ARABA_YARIŞI.Properties.Resources.resources
+C:\Users\Ömer\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.exe
+C:\Users\Ömer\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.pdb
+C:\Users\12ome\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\bin\Debug\ARABA YARIŞI.exe.config
+C:\Users\12ome\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\bin\Debug\ARABA YARIŞI.exe
+C:\Users\12ome\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\bin\Debug\ARABA YARIŞI.pdb
+C:\Users\12ome\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.csproj.AssemblyReference.cache
+C:\Users\12ome\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.csproj.SuggestedBindingRedirects.cache
+C:\Users\12ome\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\obj\Debug\ARABA_YARIŞI.Form1.resources
+C:\Users\12ome\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\obj\Debug\ARABA_YARIŞI.Properties.Resources.resources
+C:\Users\12ome\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.csproj.GenerateResource.cache
+C:\Users\12ome\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.csproj.CoreCompileInputs.cache
+C:\Users\12ome\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.exe
+C:\Users\12ome\source\repos\visual studıo\Windows From Uygulamaları\ARABA YARIŞI\obj\Debug\ARABA YARIŞI.pdb
